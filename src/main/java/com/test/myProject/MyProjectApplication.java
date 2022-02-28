@@ -10,9 +10,9 @@ public class MyProjectApplication {
 		SpringApplication.run(MyProjectApplication.class, args);
 	}
 //   commit changes
-//	changes modified by praneetha
+//	changes modified by praneetha2
 
 //
-//redersewas by praneetha
+//redersewas by praneetha2
 //	chanegs by kp
 }
